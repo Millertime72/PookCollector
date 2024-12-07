@@ -13,7 +13,8 @@
   font-size: normal;
 }
 .size {
-  font-size: 30px;
+    text-align: center;
+    font-size: 30px;
 }
 .game {
   width: 100%;
@@ -24,6 +25,12 @@
   margin: auto;
   width: 75%;
   height: 900px;
+}
+.calendar-wrapper {
+    display: block;
+    margin: auto;
+    width: 800px;
+    height: 600px;
 }
 .logo {
   width: 100%;
