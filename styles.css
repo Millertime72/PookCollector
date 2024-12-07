@@ -15,8 +15,9 @@
   font-size: 30px;
 }
 .game {
-  width: 100%;
-  height: 600px;
+  display: block;
+  width: 75%;
+  height: width;
 }
 
 
