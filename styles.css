@@ -20,7 +20,7 @@
 }
 .game-wrapper {
   display: block;
-  align: auto;
+  margin: auto;
   width: 75%;
   height: 400px;
 }
