@@ -15,10 +15,8 @@
   font-size: 30px;
 }
 .game {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  overflow: hidden;
+  width: 100%;
+  height: 600px;
 }
 
 
