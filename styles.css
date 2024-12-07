@@ -31,4 +31,6 @@
 }
 .side {
   text-align: left;
+  width: 100px;
+  length: 100px;
 }
